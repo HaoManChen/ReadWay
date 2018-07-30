@@ -1,0 +1,5 @@
+biquge:
+  searchUrl: http://zhannei.baidu.com/cse/search?q={0}&s=6445266503022880974&srt=def&nsid=0
+  newBookUrl: http://www.shuquge.com/txt/{0}
+my:
+  readTitle: 625
